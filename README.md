@@ -44,6 +44,10 @@ The Store Management System is developed using the following technologies:
 * Customer Orders: View a list of customer orders.
 * Customer Management: List, search, and delete customer records.
 
+
+## User Types
+* Store Administrator
+* Client
 ### Client
 
 * Registration/Login/Logout: Clients can create an account or log in for personalized experiences.
@@ -51,11 +55,6 @@ The Store Management System is developed using the following technologies:
 * Product Listings: Browse and search for available products.
 * Product Purchase: Buy products easily.
 * Order History: View their own order history.
-
-## User Types
-* Store Administrator
-* Client
-
 ## Credentials
 Use the following credentials to access the system:
 
