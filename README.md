@@ -2,14 +2,7 @@
 
 The **Store Management System** is a JavaFX application that offers essential CRUD (Create, Read, Update, Delete) functionalities for managing a physical store's operations digitally. This application is designed to help store owners and clients streamline their everyday activities efficiently.
 
-## Table of Contents
 
-- [Getting Started](#getting-started)
-- [Technologies Used](#technologies-used)
-- [Features](#features)
-- [User Types](#user-types)
-- [Credentials](#credentials)
-- [Screenshots](#screenshots)
 
 ## Getting Started
 
@@ -33,7 +26,14 @@ The Store Management System is developed using the following technologies:
 * Software Development Kit (SDK): Amazon Corretto 8
 * Graphical User Interface (GUI): JavaFX
 * Database: SQLite
+## Table of Contents
 
+- [Getting Started](#getting-started)
+- [Technologies Used](#technologies-used)
+- [Features](#features)
+- [User Types](#user-types)
+- [Credentials](#credentials)
+- [Screenshots](#screenshots)
 ## Features
 
 ### Store Administrator
